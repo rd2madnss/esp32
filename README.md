@@ -1,5 +1,3 @@
-//# esp32
-//GPIO 26 webserver code for Arduino IDE SimpleServer
 /*********
   rd2madnss
   Complete project details at http://randomnerdtutorials.com  
